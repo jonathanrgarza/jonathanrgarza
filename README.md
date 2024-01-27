@@ -3,7 +3,7 @@
 - 👀 I’m interested in all things programming!
 - 👍 I am proficient in C#, .NET Framework, WPF development.
 - 👌 I am familiar with Java, C++, PHP, HTML5, CSS3, JavaScript, Android development, iOS (Objective-C) development.
-- 🌱 I’m currently learning .NET 5, .NET Standard development and refreshing my knowledge of web development.
+- 🌱 I’m currently learning .NET 8, .NET Standard development and refreshing my knowledge of web development.
 
 <!---
 jonathanrgarza/jonathanrgarza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
