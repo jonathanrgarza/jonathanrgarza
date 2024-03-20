@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jonathan (@jonathanrgarza)
 - 💻 I have been programming since 2008 and it has been a passion of mine ever since.
 - 👀 I’m interested in all things programming!
-- 👍 I am proficient in C#, .NET Framework, WPF development.
-- 👌 I am familiar with Java, C++, PHP, HTML5, CSS3, JavaScript, Android development, iOS (Objective-C) development.
+- 👍 I am proficient in C#, .NET Core/Framework, and WPF/XAML.
+- 👌 I am familiar with Python, C++, HTML, CSS, JavaScript, SQL, PHP, Android development, and iOS development.
 - 🌱 I’m currently learning .NET 8, .NET Standard development and refreshing my knowledge of web development.
 
 <!---
